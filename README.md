@@ -1,6 +1,6 @@
 # PROJECT AEROGRID
 
-# Optimizing Telecom Networks Through Terrain and Clutter Mapping: A Deep Learning Approach
+# Optimizing Telecom Networks Through Terrain and Clutter Mapping: A Deep Learning Approach (Using Remote Sensing images)
 
 ## Overview
 This project explores the application of deep learning techniques to optimize telecom networks through accurate terrain and clutter mapping. By leveraging advanced data processing, Remote sensing images and modeling methods, the project aims to enhance network performance and coverage while minimizing interference.
