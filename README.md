@@ -3,7 +3,7 @@
 # Optimizing Telecom Networks Through Terrain and Clutter Mapping: A Deep Learning Approach
 
 ## Overview
-This project explores the application of deep learning techniques to optimize telecom networks through accurate terrain and clutter mapping. By leveraging advanced data processing and modeling methods, the project aims to enhance network performance and coverage while minimizing interference.
+This project explores the application of deep learning techniques to optimize telecom networks through accurate terrain and clutter mapping. By leveraging advanced data processing, Remote sensing images and modeling methods, the project aims to enhance network performance and coverage while minimizing interference.
 
 ---
 
@@ -32,7 +32,7 @@ Telecom networks face challenges due to varying terrain and environmental clutte
 ---
 
 ## Dataset Description
-The project utilizes real-world terrain and clutter data from telecom sectors, augmented with geospatial data. The dataset includes:
+The project utilizes real-world terrain and clutter data from telecom sectors, augmented with geospatial data(Satelite data). The dataset includes:
 - Terrain types (e.g., mountains, plains)
 - Clutter types (e.g., urban, vegetation, water bodies)
 - Signal strength measurements and other network parameters
